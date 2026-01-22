@@ -1,3 +1,5 @@
+<img src="hadoopspark.png" alt="Hadoop ecosystem: MapReduce, Spark, Hive" width="900"/>
+
 # Project with MapReduce, Spark / SparkSQL and Hive
 
 University exam project showcasing distributed data processing with the Hadoop ecosystem.  
